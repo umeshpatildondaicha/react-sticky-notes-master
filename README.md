@@ -1,10 +1,5 @@
 # React Sticky Notes
 
-![Desktop Screenshot](https://github.com/karantolani/react-sticky-notes/assets/54103880/0df86881-98c6-4966-ae72-014721da3f40)
-
-![Mobile Screenshot](https://github.com/karantolani/react-sticky-notes/assets/54103880/3cc63dce-4546-402a-b170-418c68ccab82)
-
-
 React Sticky Notes is a responsive sticky notes application built using create-react-app. The application allows users to create, search, delete, and store notes using local storage.
 
 ## Features
@@ -22,7 +17,7 @@ To get started with React Sticky Notes, follow these steps:
 1. Clone this repository to your local machine.
 
 ```sh
-git clone https://github.com/karantolani/react-sticky-notes.git
+git clone https://github.com/umeshpatildondaicha/react-sticky-notes.git
 ```
 
 2. Navigate to the project directory.
